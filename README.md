@@ -1,6 +1,6 @@
 # Breast Cancer Diagnosis — Machine Learning Classification
 
-## 📌 Project Overview
+##  Project Overview
 
 This project applies and compares different **Machine Learning classification algorithms** for breast cancer diagnosis using the **Breast Cancer Wisconsin (Diagnostic)** dataset.
 
@@ -8,7 +8,7 @@ The main goal is to understand how different classification algorithms and ensem
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset is the **Breast Cancer Wisconsin (Diagnostic)** dataset available through `scikit-learn`.
 
@@ -38,7 +38,7 @@ The dataset contains features describing characteristics of cell nuclei extracte
 
 ---
 
-## 🔍 Data Preparation
+##  Data Preparation
 
 The following steps were performed:
 
@@ -61,7 +61,7 @@ The following steps were performed:
 
 ---
 
-## 🤖 Classification Algorithms
+##  Classification Algorithms
 
 The following classification algorithms were implemented and compared:
 
@@ -74,7 +74,7 @@ The following classification algorithms were implemented and compared:
 
 ---
 
-## 🤝 Ensemble Learning
+##  Ensemble Learning
 
 Four ensemble learning techniques were also implemented:
 
@@ -106,7 +106,7 @@ with Logistic Regression as the final estimator.
 
 ---
 
-## 📈 Results
+##  Results
 
 The models were evaluated using:
 
@@ -139,7 +139,7 @@ Because this is a medical classification problem, **Malignant Recall** was given
 
 ---
 
-## 🏆 Results Summary
+##  Results Summary
 
 The best performance on the test set was achieved by:
 
@@ -157,7 +157,7 @@ The ensemble methods did not improve the performance beyond the best individual 
 
 ---
 
-## 🧠 Key Concepts Applied
+##  Key Concepts Applied
 
 This project was used to practice and compare important Machine Learning concepts:
 
@@ -182,7 +182,7 @@ This project was used to practice and compare important Machine Learning concept
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 * Python
 * Pandas
@@ -194,7 +194,8 @@ This project was used to practice and compare important Machine Learning concept
 
 ---
 
-## 🛠️ Author 
+## Author
 
-karim kesba
-ml engineer
+**Karim Kesba**
+
+AI / Machine Learning Developer
